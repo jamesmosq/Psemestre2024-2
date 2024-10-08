@@ -1,0 +1,17 @@
+[
+  {
+    "titulo_libro": "los caidos",
+    "usuario": "ymosquera",
+    "fecha_prestamo": "2024-10-06T23:33:32.374402",
+    "fecha_devolucion_esperada": "2024-10-11T23:33:32.374402",
+    "devuelto": true,
+    "fecha_devolucion_real": "2024-10-06T23:35:11.539527"
+  },
+  {
+    "titulo_libro": "los caidos",
+    "usuario": "ymosquera",
+    "fecha_prestamo": "2024-10-07T20:35:48.936792",
+    "fecha_devolucion_esperada": "2024-10-12T20:35:48.936792",
+    "devuelto": false
+  }
+]
